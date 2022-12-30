@@ -13,3 +13,5 @@ num=sum(len(value) for value in my_dict.values())
 print("Всего покупаю",num, "товаров")
 my_dict["сырный"]= ["бри", "камамбер","голландский"]
 print (my_dict)
+
+print('Hello, Volodymyr! Happy New Year!')
